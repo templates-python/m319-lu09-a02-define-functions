@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_menue",
+    "function": "test_menue",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_fibonacci",
+    "function": "test_fibonacci",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_einmaleins",
+    "function": "test_einmaleins",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_even_odd",
+    "function": "test_even_odd",
+    "timeout": 10,
+    "points": 1
+  }
+]
