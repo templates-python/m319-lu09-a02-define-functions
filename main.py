@@ -1,3 +1,6 @@
+"""A small text menu offering Fibonacci numbers, a multiplication table and odd/even checks."""
+
+
 def print_menue():
     """
     Prints the menue to the user
