@@ -1,3 +1,5 @@
+"""Unit tests for the main module."""
+
 import main
 
 

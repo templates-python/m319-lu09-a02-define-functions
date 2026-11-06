@@ -1,3 +1,6 @@
+"""A small text menu offering Fibonacci numbers, a multiplication table and odd/even checks."""
+
+
 def talk_to_user():
     """
     Talks to the user to determine what he wants.
